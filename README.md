@@ -1,3 +1,12 @@
+
+<a id="readme-top"></a>
+
+[![MIT License][license-shield]][license-url]
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Download-PyPi][downloads-PyPi-shield]][downloads-PyPi-url]
+
 # CGR-PDFEXTRACT
 Este paquete consta de dos librerias: 
 - Extrae informacion de un solo archivo del "Informe de Control Posterior"
@@ -90,3 +99,16 @@ Para el ejemplo, es necesario descargar el archivo "informe_CGR.csv" (https://gi
 ## Licencia
 
 Este repositorio esta autorizado bajo la licencia MIT. Ver LICENCIA para mas detalles.
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[license-shield]: https://img.shields.io/pypi/l/cgr-pdfextract
+[license-url]: https://github.com/JelsinPalomino/cgr-pdfextract/blob/main/LICENCE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/JelsinPalomino/cgr-pdfextract
+[contributors-url]: https://github.com/JelsinPalomino/cgr-pdfextract/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/JelsinPalomino/cgr-pdfextract
+[forks-url]: https://github.com/JelsinPalomino/cgr-pdfextract/network/members
+[stars-shield]: https://img.shields.io/github/stars/JelsinPalomino/cgr-pdfextract
+[stars-url]: https://github.com/JelsinPalomino/cgr-pdfextract/stargazers
+[downloads-PyPi-shield]: https://img.shields.io/pypi/dm/cgr-pdfextract
+[downloads-PyPi-url]: https://pypistats.org/packages/cgr-pdfextract
+
